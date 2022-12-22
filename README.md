@@ -1,2 +1,2 @@
 # php-notes
-aplikasi note dengan php dan sqlite3
+projek crud php & sqlite3 sederhana
